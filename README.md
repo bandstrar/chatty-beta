@@ -1,5 +1,7 @@
 # SnoopyChat
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/e4cdd3cc-7772-49ff-84ca-94f2ecd8b345/deploy-status)](https://app.netlify.com/sites/bandstrar-chatty/deploys)
+
 A fun chat application based on the Peanuts comic strip. 
 
 ## Features
@@ -66,7 +68,7 @@ for (let i = 0; i < Bot.bots.length; i += 1) {
 
 ## Link
 
-[See the site here](https://chatty-group-project.netlify.app/)
+[See the site here](https://bandstrar-chatty.netlify.app/)
 
 ## Credits
 
